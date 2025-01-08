@@ -96,11 +96,6 @@ func main() {
 		ssv = reflect.Append(ssv, sv)
 		fmt.Println(ssv)
 	}
-
-	// use reflection to check if an Interface's Value is nil
-	{
-
-	}
 }
 
 // GENERAL NOTE:
